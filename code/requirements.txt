@@ -1,0 +1,5 @@
+Flask==2.0.1
+gunicorn==20.0.4
+Pillow==8.2.0
+torch==2.2.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
+transformers==4.5.1  # Use a version that suits your needs
